@@ -7,9 +7,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="https://img.shields.io/badge/Computer%20Science%20%C2%B7%20Front--end%20Web%20Development-37308B?style=for-the-badge" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=1650&amp;pause=450&amp;color=A5B4FC&amp;center=true&amp;vCenter=true&amp;width=420&amp;height=42&amp;repeat=false&amp;lines=Computer+Science+Student%3BFront-end+Web+Developer" />
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=1650&amp;pause=450&amp;color=4338CA&amp;center=true&amp;vCenter=true&amp;width=420&amp;height=42&amp;repeat=false&amp;lines=Computer+Science+Student%3BFront-end+Web+Developer" alt="Computer Science student and front-end web developer" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://img.shields.io/badge/Computer%20Science%20%C2%B7%20Full--Stack%20Developer-37308B?style=for-the-badge" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=1650&amp;pause=450&amp;color=A5B4FC&amp;center=true&amp;vCenter=true&amp;width=420&amp;height=42&amp;repeat=false&amp;lines=Computer+Science+Student%3BFull-Stack+Developer" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=1650&amp;pause=450&amp;color=4338CA&amp;center=true&amp;vCenter=true&amp;width=420&amp;height=42&amp;repeat=false&amp;lines=Computer+Science+Student%3BFull-Stack+Developer" alt="Computer Science student and full-stack developer" />
   </picture>
 </p>
 
@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm **Rahmat Rafi Indrayani**, a Computer Science student focused on front-end web development. I value integrity and enjoy learning new things, turning ideas into web apps, and making them useful in everyday life.
+I'm **Rahmat Rafi Indrayani**, a Computer Science student focused on full-stack web development. I value integrity and enjoy learning by building useful web apps, from user interfaces to back-end APIs.
 
 ## Tech Stack
 
@@ -51,5 +51,3 @@ I'm **Rahmat Rafi Indrayani**, a Computer Science student focused on front-end w
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0E142B,48:38308C,100:085973&amp;height=68&amp;section=footer" alt="" />
 </p>
-
-<!-- The original README was generated with GPRM (https://gprm.itsvg.in). -->
